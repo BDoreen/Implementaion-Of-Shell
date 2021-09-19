@@ -1,5 +1,5 @@
 # Implementation Of Shell
-Second year C project. Project demands are to implemen a shell that supports regular commands (ls, mkdir..) and couple of other functions (listed below).  
+Second year C project. Project demands are to implement a shell that supports regular commands (ls, mkdir..) and couple of other functions (listed below).  
 
 # Function Description
 **int encryptFile(char * from, int code, char * to)**  
