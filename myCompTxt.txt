@@ -1,0 +1,6 @@
+A U5nix shell is a command-line interpreter or shell that
+ p8rovides a command line user interface for Unix-like
+ o9perating systems. The shell is both an interactive
+ c6ommand language and a scripting language, and is used
+ b5y the operating system to control the execution of the
+ s31ystem using shell scripts.[2]

@@ -1,0 +1,4 @@
+A Unix shell is a command-line interpreter or shell
+thatprovides a command line user interface for Unix
+-like operating systems.
+https://en.wikipedia.org/wiki/Unix_shell

@@ -1,0 +1,6 @@
+A UUuUUnix shell is a command-line interpreter or shell that
+ pppppppprovides a command line user interface for Unix-like
+ oooooooooperating systems. The shell is both an interactive
+ ccccccommand language and a scripting language, and is used
+ bbbbby the operating system to control the execution of the
+ sssssssssssssssssssssssssssssssystem using shell scripts.[2]
