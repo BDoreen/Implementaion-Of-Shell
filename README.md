@@ -1,4 +1,4 @@
-# Implementation Of Shell
+# Special-Shell
 Second year C project. Project demands are to implement a shell that supports regular commands (ls, mkdir..) and couple of other functions (listed below).  
 
 # Function Description
